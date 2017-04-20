@@ -1,0 +1,12 @@
+ //
+//  LianmengshangjiaViewController.h
+//  AIFUGOU
+//
+//  Created by apple love on 16/5/22.
+//  Copyright © 2016年 Leaves. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+@interface LianmengshangjiaViewController : BaseViewController
+
+@end

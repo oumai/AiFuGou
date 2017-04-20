@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AiFuGou/UIViewControllers/HomePageViewController/Commodity(&#x5546;&#x54c1;)/&#x786e;&#x8ba4;&#x8ba2;&#x5355;/&#x6dfb;&#x52a0;&#x6536;&#x8d27;&#x5730;&#x5740;/AddShoppingAddressVC.m"
+            timestampString = "487852374.922236"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "-buttonClick:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AiFuGou/UIViewControllers/HomePageViewController/Commodity(&#x5546;&#x54c1;)/&#x786e;&#x8ba4;&#x8ba2;&#x5355;/&#x6dfb;&#x52a0;&#x6536;&#x8d27;&#x5730;&#x5740;/AddShoppingAddressVC.m"
+            timestampString = "487855371.609075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AiFuGou/UIViewControllers/HomePageViewController/Commodity(&#x5546;&#x54c1;)/&#x786e;&#x8ba4;&#x8ba2;&#x5355;/&#x6dfb;&#x52a0;&#x6536;&#x8d27;&#x5730;&#x5740;/AddShoppingAddressVC.m"
+            timestampString = "487855424.595186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AiFuGou/UIViewControllers/MyShopViewController/&#x5546;&#x54c1;&#x7ba1;&#x7406;/ShangpinguanliViewController.m"
+            timestampString = "490844010.393858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "-collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
